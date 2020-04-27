@@ -1,0 +1,23 @@
+{
+  "name": "1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frontbot/1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/frontbot/1/issues"
+  },
+  "homepage": "https://github.com/frontbot/1#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "webpack": "^4.43.0"
+  }
+}
