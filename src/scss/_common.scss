@@ -1,0 +1,23 @@
+@import './variables';
+
+
+/* @font-face{
+  font-family: "Roboto";
+  src: url("./Fonts/roboto/Roboto.ttf");
+  font-style: normal;
+  font-weight: normal;
+} */
+
+body {
+  background-color: #fff;
+  font-family: 'Roboto';
+}
+
+.page {
+  width: 1920px;
+  height: 693px;
+}
+
+.main {
+  color: $main-color;
+}
